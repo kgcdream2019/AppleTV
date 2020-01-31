@@ -19,7 +19,7 @@ Make sure you go to Docker→Preferences→General and check the option → Star
 ### Linux
 #### Prerequisites
 ```sh
-sudo apt install docker
+sudo apt install docker.io
 ```
 
 ## Code Style
